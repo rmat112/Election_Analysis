@@ -6,20 +6,21 @@ The Colorado Board of Elections is conducting an election audit of a recent cong
 2. A complete list of candidates who received votes
 3. Total number of votes each candidate received
 4. Percentage of votes each candidate won
-5. The winner of the election based on popular vote
-Click here to view the Python script ( )
+5. The winner of the election based on popular vote<br/>
+
+Click here to view the Python script: [PyPoll_Challenge](https://github.com/rmat112/Election_Analysis/blob/main/PyPoll_Challenge.py )
 
 ## Resources
-- Data Source: election_results.csv
+- Data Source: [election_results.csv](https://github.com/rmat112/Election_Analysis/blob/main/Resources/election_results.csv)
 - Software: Python 3.9, Visual Studio Code Version: 1.62.0
 
 ## Election Audit Results
 The analysis of the election show that:
 - There were a total of 369,711 votes cast in this congressional election.
 - The county results were as follows:
-  - Voter turnout in Jefferson County was 38,855 votes which was 10.5% of total votes.
-  - Voter turnout in Denver County was 306,055 votes which was 82.8% of total votes. 
-  - Voter turnout in Arapahoe County was 24,801 votes which was 6.7% of total votes.
+  - In Jefferson County a total of 38,855 votes were cast which was 10.5% of total votes.
+  - In Denver County a total of 306,055 votes were cast which was 82.8% of total votes.
+  - In Arapahoe County a total of 24,801 votes were cast which was 6.7% of total votes.
 - The largest voter turnout was seen in Denver County.
 - The candidates were:
   - Charles Casper Stockham
