@@ -33,11 +33,11 @@ The analysis of the election show that:
   - Diana DeGette who received 73.8% of the vote and 272,892 votes.
 
 ##### Below is a screenshot of results printed to terminal
-![terminal_output](terminal_output.png)
+![terminal_output](https://github.com/rmat112/Election_Analysis/blob/main/analysis/terminal_output.png)
 
 
 ##### Below is a screenshot of results printed to a text file "election_analysis.txt"
-![Textfile_output](Textfile_output.png)
+![Textfile_output](https://github.com/rmat112/Election_Analysis/blob/main/analysis/Textfile_output.png)
 
 ## Election Audit Summary
 This script proved to be very useful for the analysis of results of this congressional election. With the help of this script we were able to calculate total number of votes. We were able to find out the voter turnout in each County and total votes per county as a percentage. Last, but not the least, we were able to find results of the election by calculating total number of votes per candidate as a number and as percentage, which ultimately helped us declare the final winner.<br/> 
